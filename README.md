@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Oğulcan 👋
 
-<!--
-**ocanyilmaz/ocanyilmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student and indie developer  
+focused on building **learning-centric and productivity-driven applications**.
 
-Here are some ideas to get you started:
+**Currently working on**
+- Codlyo – a Duolingo-style platform for learning programming
+- Exploring AI-powered education & habit systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Interests**
+- EdTech & learning science  
+- Mobile & web app development  
+- Indie hacking & product thinking  
+
+**Tech Stack**
+- JavaScript / TypeScript  
+- React / Next.js
+- React Native  
+- Node.js  
+- Supabase / PostgreSQL  
+- Flutter (learning)
+
+**Goals for 2025**
+- Launch and monetize Codlyo  
+- Build 3–5 well-documented public projects  
+- Improve clean architecture & system design  
+
+📫 **Connect with me**
+- GitHub: @ocanyilmaz
