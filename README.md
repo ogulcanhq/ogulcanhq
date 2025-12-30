@@ -25,5 +25,5 @@ focused on building **learning-centric and productivity-driven applications**.
 - Build 3–5 well-documented public projects  
 - Improve clean architecture & system design  
 
-📫 **Connect with me**
+**Connect with me**
 - GitHub: @ocanyilmaz
