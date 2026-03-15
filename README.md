@@ -1,29 +1,20 @@
-# Hi, I'm Oğulcan 👋
+# Oğulcan Yılmaz
 
-I'm a Computer Engineering student and indie developer  
-focused on building **learning-centric and productivity-driven applications**.
+Computer Engineering student building software, digital products, and startup-oriented systems.
 
-**Currently working on**
-- Codlyo – a Duolingo-style platform for learning programming
-- Exploring AI-powered education & habit systems
+## Focus
+- Product development
+- Mobile and web applications
+- SaaS and systems thinking
+- Real-world problem solving through software
 
-**Interests**
-- EdTech & learning science  
-- Mobile & web app development  
-- Indie hacking & product thinking  
+## Projects
+- **Ajanda** — a productivity app focused on planning, routines, clarity, and calm personal organization
+- **Enekron** — a B2B platform for electrical infrastructure, supplier matching, and RFQ management
+- **Eril Tarım** — an agriculture-focused business management system for farmer operations, stock tracking, and workflow management
 
-**Tech Stack**
-- JavaScript / TypeScript  
-- React / Next.js
-- React Native  
-- Node.js  
-- Supabase / PostgreSQL  
-- Flutter (learning)
+## Tech
+`TypeScript` `JavaScript` `Swift` `Next.js` `Supabase` `Git`
 
-**Goals for 2025**
-- Launch and monetize Codlyo  
-- Build 3–5 well-documented public projects  
-- Improve clean architecture & system design  
-
-**Connect with me**
-- GitHub: @ocanyilmaz
+## Goal
+Building useful, well-designed, and scalable digital products.
